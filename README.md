@@ -1,3 +1,3 @@
 # Garbage
 ## Here exists nothing important
-> Paimon, Student from Qingdao Agricultural University, China
+> Paimon, Qingdao Agricultural University, China
